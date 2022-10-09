@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/yash/Autonomous-Navigating-Bot/devel -DCMAKE_INSTALL_PREFIX=/home/yash/Autonomous-Navigating-Bot/install -G Unix Makefiles
